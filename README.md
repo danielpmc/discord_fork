@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7dcd3dbb159e4bdfb24505bafef5ac98)](https://app.codacy.com/app/danielpmc/discord_fork?utm_source=github.com&utm_medium=referral&utm_content=danielpmc/discord_fork&utm_campaign=Badge_Grade_Dashboard)
 [![Discord Fork Botlist, The botlist with built in GitHub integration](/.github/header.png)](https://discordbots.co.uk/)
 
 _A Discord Bot List with no dedicated servers, running entirely on Netlify and AWS Lambda_
